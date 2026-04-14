@@ -2,7 +2,7 @@
 
 ## Game Description
 
-**The Fallen Kingdom** is a simple graphics project created using the **iGraphics** library in C. The game is a single-player 2D car chase game where the player controls a car driving along a straight highway. A police car continuously chases the player, and the game ends if the police car collides with the player. Enemy cars and obstacles appear on the road, increasing the challenge. The player can shoot enemy vehicles using limited ammunition and collect special power-ups such as speed boosts and ammo upgrades to survive longer.
+**The Highway Pursuit** is a simple graphics project created using the **iGraphics** library in C. The game is a single-player 2D car chase game where the player controls a car driving along a straight highway. A police car continuously chases the player, and the game ends if the police car collides with the player. Enemy cars and obstacles appear on the road, increasing the challenge. The player can shoot enemy vehicles using limited ammunition and collect special power-ups such as speed boosts and ammo upgrades to survive longer.
 
 ## Features
 •	Player-controlled car movement
