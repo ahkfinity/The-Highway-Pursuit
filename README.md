@@ -74,7 +74,7 @@ Open the project in Visual Studio 2013
 <img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">
 
 ## Youtube Link
-[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
+[CSE 1200 Project: The Fallen Kingdom]([https://www.youtube.com/](https://youtu.be/CQ0VcYKrJGE))
 
 ## Project Report
 [Project Report: The Highway Pursuit](https://docs.google.com/document/d/1TK5RZY6DqYcEzojROWHV8MN95_7D0l3y/edit?usp=sharing&ouid=114068127253456044199&rtpof=true&sd=true)
